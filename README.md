@@ -13,6 +13,6 @@ cd secp256k1
 ./configure
 make
 ./tests
-sudo make install  # optional
+sudo make install 
 ```
 
